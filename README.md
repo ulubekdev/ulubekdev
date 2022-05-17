@@ -1,5 +1,5 @@
 ### Hi NOOB. Are you looking for ME? If yes I'M HERE FOR YOU ;)
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on CRM for Transports sale system
 - 🌱 I’m currently learning PostgreSQL, MongoDB, Security
