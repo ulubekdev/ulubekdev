@@ -1,20 +1,20 @@
-### Hi NOOB. Are you looking for ME? IF yes I'M HERE FOR YOU ;)
+### Hi NOOB. Are you looking for ME? If yes I'M HERE FOR YOU ;)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CRM for Trasports sale system
+- 🔭 I’m currently working on CRM for Transports sale system
 - 🌱 I’m currently learning postgreSQL
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His/Friend/Dude/Bro
-- ⚡ Fun fact: you're stupid
+- ⚡ Fun fact: We all will die
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nodejs-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zrdme" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nodejs-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zrdme" height="30" width="30" /></a>
   
-<a href="https://www.facebook.com/ulugbek.yolchimurodov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zrd.me" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ulugbek.yolchimurodov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zrd.me" height="30" width="30" /></a>
   
  <a href="https://t.me/ulubek_dev" target="_blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="https://t.me/ulubek_dev" height="30" width="40" /></a>
 </p>
