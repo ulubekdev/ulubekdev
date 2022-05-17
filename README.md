@@ -2,10 +2,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CRM for Transports sale system
-- 🌱 I’m currently learning postgreSQL
-- 👯 I’m looking to collaborate on YouTube
-- 💬 Ask me about 
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning postgreSQL, MongoDB, Security
+- 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
 
