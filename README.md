@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nodejs-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zrdme" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nodejs-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodejs-developer" height="30" width="40" /></a>
   
-<a href="https://www.facebook.com/ulugbek.yolchimurodov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zrd.me" height="30" width="30" /></a>
+<a href="https://www.facebook.com/ulugbek.yolchimurodov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ulugbek.yolchimurodov" height="30" width="40" /></a>
   
  <a href="https://t.me/ulubek_dev" target="_blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="https://t.me/ulubek_dev" height="30" width="40" /></a>
+  
+ <a href="https://instagram.com/ulubek_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulubek_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
