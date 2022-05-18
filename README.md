@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on CRM for Transports sale system
-- 🌱 I’m currently learning PostgreSQL, MongoDB, Security
+- 🌱 I’m currently learning PostgreSQL, MongoDB, Security...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
