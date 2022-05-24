@@ -1,4 +1,4 @@
-### Hi Dude! You looking for ME? If yes I'M HERE FOR YOU ;)
+### Hi Dude!
 
 
 - 🔭 I’m currently working on CRM for Transports sale system
