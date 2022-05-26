@@ -1,4 +1,4 @@
-<h1>Hi Dude!</h1>
+<h1>Hey dude, what's up?</h1>
 
 
 - 🔭 I’m currently working on myself
