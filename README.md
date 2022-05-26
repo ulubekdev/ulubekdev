@@ -1,7 +1,7 @@
 <h1>Hi Dude!</h1>
 
 
-- 🔭 I’m currently learning ORM
+- 🔭 I’m currently working on myself
 - 🌱 I’m currently learning PostgreSQL, MongoDB, Security...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
