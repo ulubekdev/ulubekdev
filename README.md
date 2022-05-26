@@ -1,5 +1,5 @@
 <p align="center">
-<a href=" [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=4DAD9A&center=true&vCenter=true&lines=NodeJS+Backend+Developer;Curious+and+ever+learning;The+best+employee+in+your+company)](https://git.io/typing-svg)">
+ <a href="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=4DAD9A&center=true&vCenter=true&lines=NodeJS+Backend+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
  </p>
 
 
