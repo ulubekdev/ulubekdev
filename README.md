@@ -5,11 +5,11 @@
 
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning PostgreSQL, MongoDB, Security...
+- 🌱 I’m currently learning ORM, Sequelize.js, Modelling...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
-
+- 👨‍💻 I love writing code and learn anythings about it
 
 
 
