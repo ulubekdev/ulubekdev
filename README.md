@@ -1,8 +1,7 @@
-<div align="center">
 <h1>Hi Dude!</h1>
 
 
-- 🔭 I’m currently working on CRM for Transports sale system
+- 🔭 I’m currently learning ORM
 - 🌱 I’m currently learning PostgreSQL, MongoDB, Security...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
@@ -46,4 +45,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=theulubek&&show_icons=true&title_color=ffffff&include_all_commits=true&icon_color=blue&text_color=daf7dc&bg_color=191919">
- </div>
