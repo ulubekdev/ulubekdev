@@ -38,7 +38,7 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=theulubek&style=flat-square)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=theulubek&&show_icons=true&title_color=ffffff&include_all_commits=true&icon_color=blue&text_color=daf7dc&bg_color=191919">
