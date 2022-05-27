@@ -3,18 +3,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=4DAD9A&center=true&vCenter=true&lines=NodeJS+Backend+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
 </p>
 
-<div align="center">
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning ORM, Sequelize.js...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
 - 👨‍💻 I love writing code and learn anythings about it
-</div>
 
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/nodejs-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodejs-developer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ulugbek.yolchimurodov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ulugbek.yolchimurodov" height="30" width="40" /></a>
@@ -22,8 +20,7 @@
  <a href="https://instagram.com/ulubek_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulubek_dev" height="30" width="40" /></a>
 </p>
 <br>
-<br>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <div style="display: inline_block" align="center">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
