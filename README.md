@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning ORM, Sequelize.js...
+- 🌱 I’m currently learning Socket.io, Socket-client...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
