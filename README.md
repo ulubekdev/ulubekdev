@@ -1,6 +1,6 @@
 <h1 align="center">Hey dude, what's up <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=NodeJS+Backend+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=Node.js+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
 </p>
 
 - 🔭 I’m currently working on myself
