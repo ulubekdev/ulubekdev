@@ -3,8 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=Node.js+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
 </p>
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Socket.io, Socket-client...
+- 🔭 I’m currently working on live chat with socket, express, postgresql...
+- 🌱 I’m currently learning socket, socket-client
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
