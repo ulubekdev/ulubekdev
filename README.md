@@ -1,6 +1,10 @@
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=Node.js+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
-  </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theulubek">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey dude, what's up <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45";I'm Node.js developer🌐;Curious and ever learning💻&center=true&size=30">
+  </a>
+</h1>
 
 - 🔭 I’m currently working on live chat with socket, express, postgresql...
 - 🌱 I’m currently learning socket, socket-client
@@ -38,10 +42,6 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </div>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=theulubek&&show_icons=true&title_color=ffffff&include_all_commits=true&icon_color=blue&text_color=daf7dc&bg_color=191919">
 
 <br>
 
