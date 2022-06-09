@@ -45,5 +45,3 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=theulubek&style=flat-square">
-
