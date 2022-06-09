@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on live chat with socket, express, postgresql...
+- 🔭 I’m currently working on realtime web chat with socket, express, sequelize...
 - 🌱 I’m currently learning socket, socket-client
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
