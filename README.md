@@ -1,7 +1,6 @@
-<p align="center">
-  <h1 align="center">Hey dude, what's up <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=Node.js+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
-</p>
+
+<h1 align="center">Hey dude, what's up <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=22&duration=4500&color=ddb835&center=true&vCenter=true&lines=Node.js+Developer;Curious+and+ever+learning;The+best+employee+in+your+company"></a>
 
 - 🔭 I’m currently working on live chat with socket, express, postgresql...
 - 🌱 I’m currently learning socket, socket-client
