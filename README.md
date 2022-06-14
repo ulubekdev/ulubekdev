@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on realtime web chat with socket, express, sequelize...
-- 🌱 I’m currently learning socket, socket-client
+- 🔭 I’m currently working on old unfinished projects...
+- 🌱 I’m currently learning TypeScript...
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
