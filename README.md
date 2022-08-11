@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on old unfinished projects.
-- 🌱 I’m currently learning MongoDB, Mongoose.js... 
+- 🔭 I’m currently working on Job-search site
+- 🌱 I’m currently learning how to find job... 
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
