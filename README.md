@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theulubek">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5300&color=28ADF7&center=true&vCenter=true&lines=Hey+dude%2C+what's+up+%F0%9F%96%90I am+Node.js+developer+%F0%9F%8C%90;Love+to+learn+%F0%9F%93%96">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+What's+up%3F;I'm+Node.js+developer;I+love+to+learn" alt="Typing SVG" /></a>
 </h1>
 
 - 🔭 I’m currently working on job-search site
