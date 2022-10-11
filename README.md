@@ -5,7 +5,7 @@
 </h1>
 
 - 🔭 I’m currently working on job-search site
-- 🌱 I’m currently learning how to find job...
+- 🌱 I’m currently learning Frontend Development
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
