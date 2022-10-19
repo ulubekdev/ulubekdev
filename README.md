@@ -4,7 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+What's+up%3F;I'm+Node.js+developer;I+love+to+learn" alt="Typing SVG" /></a>
 </h1>
 
-- 🔭 I’m currently working on job-search site
 - 🌱 I’m currently learning Frontend Development
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
