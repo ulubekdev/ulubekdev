@@ -5,6 +5,7 @@
 </h1>
 
 - 🌱 I’m currently learning Frontend Development
+- 📈 I'm working on Yo'lovchi Web Site API
 - 💬 Ask me about anything you want
 - 😄 Pronouns: He/His/Friend/Dude/Bro
 - ⚡ Fun fact: We all will die
