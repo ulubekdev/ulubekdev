@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theulubek">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=999&color=4CD1CA&center=true&vCenter=true&width=450&lines=Hello!+My+name+is+Mike+%3A);I'm+a+Backend+Node.js+developer;I+love+to+build+web+things!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=999&color=4CD1CA&center=true&vCenter=true&width=450&lines=Hello!+My+name+is+Mike+%3A);I'm+a+Backend+Node.js+developer;I+love+to+build+web+things!" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning React.js and Redux
 - 📈 I'm working on Yo'lovchi Web Site API
