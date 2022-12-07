@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theulubek">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+What's+up%3F;I'm+Node.js+developer;I+love+to+learn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hey!+What's+up%3F;I'm+a+Backend+Node.js+developer;I+love+to+build+web+things" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning React.js and Redux
