@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Node.js developer
 -----------------
 
-• 1 year Node.js experience and good knowledge of Node.js. • Ability to create complicated logic flow based on business requirements. • Experience with MongoDB and PostgreSQL understanding of software design principles and patterns, and experience applying them • High productivity and effective time management-Experience with Scrum/Agile SDLC • Good spoken English
+• 1 year Node.js experience and good knowledge of Node.js. 
+• Ability to create complicated logic flow based on business requirements. 
+• Experience with MongoDB and PostgreSQL understanding of software design principles and patterns, and experience applying them 
+• High productivity and effective time management-Experience with Scrum/Agile SDLC 
+• Good spoken English
 
 * 🌍  I'm based in Uzbekistan, Tashkent
 * 🖥️  See my portfolio at [here](http://mikedevy.netlify.app/)
@@ -35,6 +39,7 @@ src="https://img.shields.io/github/followers/ulubekdev?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ulubekdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ulubek_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nodejs-developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
