@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Node.js developer
 -----------------
 
-• 1 year Node.js experience and good knowledge of Node.js. 
-• Ability to create complicated logic flow based on business requirements. 
-• Experience with MongoDB and PostgreSQL understanding of software design principles and patterns, and experience applying them 
-• High productivity and effective time management-Experience with Scrum/Agile SDLC 
-• Good spoken English
+• 1 year Node.js experience and good knowledge of Node.js. <br>
+• Ability to create complicated logic flow based on business requirements. <br>
+• Experience with MongoDB and PostgreSQL understanding of software design principles and patterns, and experience applying them <br>
+• High productivity and effective time management-Experience with Scrum/Agile SDLC <br>
+• Good spoken English 
 
 * 🌍  I'm based in Uzbekistan, Tashkent
 * 🖥️  See my portfolio at [here](http://mikedevy.netlify.app/)
