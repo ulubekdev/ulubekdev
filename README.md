@@ -16,7 +16,7 @@ Node.js developer
 * 🚀  I'm currently working on [Yolovchi API](http://gitlab.com/dev-group55/yulovchi)
 * 🧠  I'm learning NestJS and OOP concepts
 * 🤝  I'm open to collaborating on any projects
-* ⚡  We All Will Die
+* ⚡  We Are Gonna Die...
 
 <a href="https://www.github.com/ulubekdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ulubekdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
