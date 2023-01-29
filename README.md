@@ -9,7 +9,6 @@ Node.js developer
 - Experience with MongoDB and PostgreSQL understanding of software design principles and patterns, and experience applying them <br>
 - High productivity and effective time management-Experience with Scrum/Agile SDLC <br>
 - Good spoken English 
-
 * 🌍  I'm based in Uzbekistan, Tashkent
 * 🖥️  See my portfolio at [here](http://mikedevy.netlify.app/)
 * ✉️  You can contact me at [ulubekdev@gmail.com](mailto:ulubekdev@gmail.com)
