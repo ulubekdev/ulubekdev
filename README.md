@@ -12,7 +12,7 @@ Node.js developer
 * 🌍  I'm based in Uzbekistan, Tashkent
 * 🖥️  See my portfolio at [here](http://mikedevy.netlify.app/)
 * ✉️  You can contact me at [ulubekdev@gmail.com](mailto:ulubekdev@gmail.com)
-* 🚀  I'm currently working on [Yolovchi API](http://gitlab.com/dev-group55/yulovchi)
+* 🚀  I'm currently working on Tayyor Pizza
 * 🧠  I'm learning NestJS and OOP concepts
 * 🤝  I'm open to collaborating on any projects
 * ⚡  We Are Gonna Die...
