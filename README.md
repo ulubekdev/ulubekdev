@@ -10,10 +10,9 @@ Node.js developer
 - High productivity and effective time management-Experience with Scrum/Agile SDLC <br>
 - Good spoken English 
 * 🌍  I'm based in Uzbekistan, Tashkent
-* 🖥️  See my portfolio at [here](http://mikedevy.netlify.app/)
 * ✉️  You can contact me at [ulubekdev@gmail.com](mailto:ulubekdev@gmail.com)
-* 🚀  I'm currently working on Tayyor Pizza
-* 🧠  I'm learning NestJS and OOP concepts
+* 🚀  I'm currently working on top secret project
+* 🧠  I'm learning NestJS and OOP concepts. Also React.js
 * 🤝  I'm open to collaborating on any projects
 * ⚡  We Are Gonna Die...
 
